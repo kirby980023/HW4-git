@@ -8,7 +8,7 @@ public class Player : MonoBehaviour
     public GameObject firePoint;
     CharacterController cc;
     public Joystick joystick;
-    public float speed = 10f;
+    public float speed = 30f;
     private float timerInterval = 0.3f;
     private float passedTime = 0;
     
